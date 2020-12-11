@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_4352_1.jpg</filename>
+	<path>/home/prism/repos/object_detection_demo/data/images/IMG_4352_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>66</ymin>
+			<xmax>302</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
