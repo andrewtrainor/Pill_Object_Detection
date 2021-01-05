@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>capsule</folder>
 	<filename>IMG_4353_1.jpg</filename>
-	<path>/home/prism/repos/object_detection_demo/data/images/IMG_4353_1.jpg</path>
+	<path>/home/prism/repos/Pill_Object_Detection/originals/capsule/IMG_4353_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,6 +81,30 @@
 			<ymin>1</ymin>
 			<xmax>610</xmax>
 			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capsule</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>3</ymin>
+			<xmax>720</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capsule</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>47</ymin>
+			<xmax>720</xmax>
+			<ymax>234</ymax>
 		</bndbox>
 	</object>
 </annotation>

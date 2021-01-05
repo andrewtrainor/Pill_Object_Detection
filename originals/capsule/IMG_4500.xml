@@ -1,7 +1,7 @@
 <annotation>
-	<folder>pills</folder>
+	<folder>capsule</folder>
 	<filename>IMG_4500.jpg</filename>
-	<path>/home/prism/repos/Pill_Object_Detection/pills/IMG_4500.jpg</path>
+	<path>/home/prism/repos/Pill_Object_Detection/originals/capsule/IMG_4500.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -1437,6 +1437,18 @@
 			<ymin>1379</ymin>
 			<xmax>780</xmax>
 			<ymax>1442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capsule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>1353</ymin>
+			<xmax>988</xmax>
+			<ymax>1445</ymax>
 		</bndbox>
 	</object>
 </annotation>
