@@ -149,18 +149,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>986</xmin>
-			<ymin>773</ymin>
-			<xmax>986</xmax>
-			<ymax>773</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>capsule</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>640</xmin>
 			<ymin>673</ymin>
 			<xmax>1010</xmax>
